@@ -18,7 +18,6 @@ int main() {
 	fin >> N;
 	string beads;
 	fin >> beads;
-
 	if(beads.length() != N){
 		N = beads.length();
 	}
